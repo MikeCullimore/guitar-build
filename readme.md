@@ -31,3 +31,22 @@ What if you had (made!) time to build a guitar? What would you build? What featu
 * Related repo: [guitar tone matcher](https://github.com/MikeCullimore/guitar-tone-matcher)
 * [The guitar player repair guide](https://www.musicroom.com/the-guitar-player-repair-guide-3rd-revised-ed-guitar-hl00331793)
     * But does this cover build or maintenance only?
+
+## Guitar maintenance
+
+* How to set up action?
+* How to intonate?
+* How to change strings?
+* How to replace frets?
+    * Start with cheapest guitar and highest fret!
+    * Go stainless steel for durability?
+    * Need to replace lacquer? 
+* What tools needed?
+    * Tuner (possible with computer and audio interface?)
+    * Clippers?
+    * Files?
+    * [Fret tools recommendations](https://theelectricluthier.com/recommended-gear/freting-tools/)
+    * [Fret levelling kit](https://www.solomusicgear.com/product/solo-fret-leveling-kit/?ref=13700) (does not include cutters!)
+* What parts?
+    * Strings: Ernie Ball super slinky
+    * Fret wire
